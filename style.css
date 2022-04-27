@@ -45,3 +45,23 @@ li a:hover {
     color: red;
     text-shadow: 5px 5px 5px rgb(240, 141, 141);
 }
+
+footer {
+    padding-top: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.copyright {
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.copyright a {
+    color: black;
+    text-decoration: none;
+}
+
+.copyright a:hover {
+    color: rgb(179, 17, 6);
+}
