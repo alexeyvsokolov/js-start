@@ -43,8 +43,14 @@ input {
 }
 
 button {
+    border-color: red;
+    background-color: rgb(252, 203, 203);
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
+}
+
+button:hover {
+    background-color: rgb(253, 183, 183);
 }
 
 hr {
